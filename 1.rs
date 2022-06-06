@@ -1,3 +1,3 @@
 fn main(){
-    println!("Hello, This is from RUST...");
+    println!("Hello, This is from RUST program...");
 }
